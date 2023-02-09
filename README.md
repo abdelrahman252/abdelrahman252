@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="waving" />, I'm ِAbdelrahman Ahmed 🔥</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="waving" width="50px" height="50px"/>, I'm ِAbdelrahman Ahmed 🔥</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F7111B&width=435&lines=Welcome+to+my+Github+Profile%F0%9F%94%A5..;call+me+Abdo;I'm+a+Software+Engineer+" alt="Typing SVG" /></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelrahman252&label=Profile%20views&color=0e75b6&style=flat" alt="abdelrahman252" /> </p>
